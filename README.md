@@ -5,7 +5,7 @@ This project takes in audio input from a Node.js server and a Sparkfun Electroni
 &nbsp; &nbsp; &nbsp; Type "Make" into the host's terminal  \
 &nbsp; &nbsp; &nbsp; ./finalProjectStart <- for application \
 &nbsp; &nbsp; &nbsp; ./finalProjectStartReact <- to start the react server \
-&nbsp; &nbsp; &nbsp; ./finalProjectStartUDP <- to start the node server \
+&nbsp; &nbsp; &nbsp; ./finalProjectStartUDP <- to start the node server 
 
 ## Demo 
 
